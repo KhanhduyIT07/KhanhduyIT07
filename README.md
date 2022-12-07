@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- I,m Studying At Dong A Univercity And my major information technology
-- I live in Da Nang City
+- 🤡I,m Studying At Dong A Univercity And my major information technology
+-🐐 I live in Da Nang City
 -
 <!---
 KhanhduyIT07/KhanhduyIT07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
